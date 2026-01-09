@@ -1,0 +1,1 @@
+from .api.routes.health import health_router
